@@ -19,6 +19,7 @@ public class GameManager : MonoBehaviour
     public Text question2Text;
     public Text question3Text;
     public Text answerText;
+    public Text roundText;
 
     public Button question1Button;
     public Button question2Button;
@@ -27,12 +28,13 @@ public class GameManager : MonoBehaviour
     public GameObject answerDialogue;
     public GameObject nextButton;
 
+    public int roundNum = 1;
     public int questionIndex;
     public int answerIndex;
-    
     public int question1Index;
     public int question2Index;
     public int question3Index;
+    public int contestantTurn = 1;
     
     // Start is called before the first frame update
     void Start()
@@ -96,6 +98,29 @@ public class GameManager : MonoBehaviour
         currentNode = JsonUtility.FromJson<QANode>(question);
     }*/
 
+    void UpdateUI()
+    {
+        roundText.text = "Round " + roundNum;
+        question1Index = Random.Range(0, questionPool.Length);        
+        question2Index = Random.Range(0, questionPool.Length);
+        question3Index = Random.Range(0, questionPool.Length);
+        
+        if (question1Index == question2Index || question1Index == question3Index || question2Index == question3Index)
+        {
+            UpdateUI();
+        }
+        else
+        {
+            string currentQuestion1 = questionPool[question1Index];
+            string currentQuestion2 = questionPool[question2Index];
+            string currentQuestion3 = questionPool[question3Index];
+        
+            question1Text.text = currentQuestion1;
+            question2Text.text = currentQuestion2;
+            question3Text.text = currentQuestion3;
+        }
+    }
+    
     public void ChooseQuestion(int questionNum)
     {
         question1Button.interactable = false;
@@ -124,25 +149,26 @@ public class GameManager : MonoBehaviour
         answerText.text = answerPool[answerIndex];
     }
 
-    void UpdateUI()
+    public void Next()
     {
-        question1Index = Random.Range(0, questionPool.Length);        
-        question2Index = Random.Range(0, questionPool.Length);
-        question3Index = Random.Range(0, questionPool.Length);
-        
-        if (question1Index == question2Index || question1Index == question3Index || question2Index == question3Index)
+        contestantTurn++;
+
+        if (contestantTurn > 3)
         {
+            question1Button.interactable = true;
+            question2Button.interactable = true;
+            question3Button.interactable = true;
+            
+            nextButton.SetActive(false);
+            answerDialogue.SetActive(false);
+
+            roundNum++;
+            
             UpdateUI();
+            
+            contestantTurn = 1;
         }
-        else
-        {
-            string currentQuestion1 = questionPool[question1Index];
-            string currentQuestion2 = questionPool[question2Index];
-            string currentQuestion3 = questionPool[question3Index];
         
-            question1Text.text = currentQuestion1;
-            question2Text.text = currentQuestion2;
-            question3Text.text = currentQuestion3;
-        }
+        print(contestantTurn);
     }
 }
