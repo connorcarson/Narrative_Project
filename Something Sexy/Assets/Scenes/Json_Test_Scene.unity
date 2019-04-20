@@ -1240,7 +1240,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1764555925
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1515,6 +1515,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2137703558}
   - component: {fileID: 2137703557}
+  - component: {fileID: 2137703559}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -1553,6 +1554,12 @@ MonoBehaviour:
   question2Index: 0
   question3Index: 0
   contestantTurn: 1
+  charIndex: 0
+  questions:
+    questionPool:
+      questions: []
+  characterData:
+    characters: []
 --- !u!4 &2137703558
 Transform:
   m_ObjectHideFlags: 0
@@ -1567,3 +1574,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2137703559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2137703556}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780875485f8574deaa84b6a5cff43c52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characters: []
+  contestant1Index: 0
+  contestant2Index: 0
+  contestant3Index: 0
