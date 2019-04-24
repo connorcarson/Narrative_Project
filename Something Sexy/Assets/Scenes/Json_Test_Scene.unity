@@ -149,7 +149,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -151, y: -107}
-  m_SizeDelta: {x: 317.9, y: 30}
+  m_SizeDelta: {x: 374.04, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &18843765
 MonoBehaviour:
@@ -907,7 +907,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -151, y: -173}
-  m_SizeDelta: {x: 317.9, y: 30}
+  m_SizeDelta: {x: 374.04, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1549540531
 MonoBehaviour:
@@ -1334,7 +1334,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -151, y: -140}
-  m_SizeDelta: {x: 317.9, y: 30}
+  m_SizeDelta: {x: 374.04, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2012307946
 MonoBehaviour:
@@ -1587,6 +1587,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characters: []
+  contestantPos:
+  - {x: 1.5, y: 0, z: 0}
+  - {x: 4, y: 0, z: 0}
+  - {x: 6.5, y: 0, z: 0}
   contestant1Index: 0
   contestant2Index: 0
   contestant3Index: 0
+  canonicalIndex: 0
+  pos1Index: 0
+  pos2Index: 0
+  pos3Index: 0
