@@ -2,184 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bef73b74-5c1a-43eb-b33d-f00d890d3001" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Narrative_Project/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Narrative_Project/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Narrative_Project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Narrative_Project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Something Sexy/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Something Sexy/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Something Sexy/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Something Sexy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Something Sexy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/InkLibrary.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/InkLibrary.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/InkSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/InkSettings.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Compiler.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Compiler/Auto Compiler.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Compiler/Auto Compiler/InkPostProcessor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Compiler/Auto Compiler/InkPostProcessor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Compiler/InkCompiler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Compiler/InkCompiler.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Inspector.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Inspector/File Icons.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Inspector/File Icons/InkBrowserIcons.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Inspector/File Icons/InkBrowserIcons.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Inspector/Ink Inspector.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Inspector/Ink Inspector/DefaultAssetEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Inspector/Ink Inspector/DefaultAssetEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Inspector/Ink Inspector/DefaultAssetInspector.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Inspector/Ink Inspector/DefaultAssetInspector.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Inspector/Ink Inspector/InkInspector.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Inspector/Ink Inspector/InkInspector.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Library.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Library/InkFile.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Library/InkFile.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Library/InkLibrary.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Library/InkLibrary.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Library/InkLibraryEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Library/InkLibraryEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Library/InkMetaFile.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Library/InkMetaFile.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Library/InkMetaLibrary.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Library/InkMetaLibrary.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Settings.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Settings/InkSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Settings/InkSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Settings/InkSettingsEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Ink Settings/InkSettingsEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Player Window.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Player Window/InkPlayerWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Player Window/InkPlayerWindow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkChildIcon-Large.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkChildIcon-Large.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkChildIcon.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkChildIcon.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkCompileManualIcon.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkCompileManualIcon.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkDefaultTemplate.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkDefaultTemplate.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkErrorIcon.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkErrorIcon.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkFileIcon-Large.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkFileIcon-Large.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkFileIcon-retina.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkFileIcon-retina.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkFileIcon.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkFileIcon.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkTodoIcon.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkTodoIcon.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkUnknownFileIcon.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkUnknownFileIcon.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkWarningIcon.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Resources/InkWarningIcon.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Tools.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Tools/InkEditorUtils.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Editor/Tools/InkEditorUtils.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Example.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Example.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Ink/story.ink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Ink/story.ink.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Ink/story.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Ink/story.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Prefabs/Button.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Prefabs/Button.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Prefabs/Text.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Prefabs/Text.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Scripts/BasicInkExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Scripts/BasicInkExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Extras.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Extras/Sublime3Syntax.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Extras/Sublime3Syntax.zip.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/CallStack.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/CallStack.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Choice.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Choice.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/ChoicePoint.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/ChoicePoint.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Container.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Container.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/ControlCommand.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/ControlCommand.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/DebugMetadata.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/DebugMetadata.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Divert.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Divert.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Glue.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Glue.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/INamedContent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/INamedContent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Ink-Runtime.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Ink-Runtime.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/InkList.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/InkList.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/JsonSerialisation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/JsonSerialisation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/ListDefinition.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/ListDefinition.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/ListDefinitionsOrigin.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/ListDefinitionsOrigin.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/NativeFunctionCall.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/NativeFunctionCall.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Object.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Object.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Path.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Path.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Pointer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Pointer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Profiler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Profiler.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/PushPop.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/PushPop.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/SearchResult.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/SearchResult.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/SimpleJson.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/SimpleJson.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Story.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Story.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/StoryException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/StoryException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/StoryState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/StoryState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/StringJoinExtension.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/StringJoinExtension.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Tag.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Tag.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Value.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Value.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/VariableAssignment.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/VariableAssignment.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/VariableReference.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/VariableReference.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/VariablesState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/VariablesState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Void.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/InkRuntime/Void.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Inklecate.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Inklecate/ink-engine-runtime.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Inklecate/ink-engine-runtime.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Inklecate/ink_compiler.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Inklecate/ink_compiler.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Inklecate/inklecate_mac" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Inklecate/inklecate_mac.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Inklecate/inklecate_win.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Inklecate/inklecate_win.exe.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Ink/Readme.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Json_Test_Scene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Json_Test_Scene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Proto.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Proto.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Something Sexy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Something Sexy/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -192,10 +15,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scroll Panels/AdvancedScrollingPanel/Scripts/PanelMessageBox.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="248" column="5" lean-forward="true" selection-start-line="248" selection-start-column="5" selection-end-line="248" selection-end-column="5" />
+            <state relative-caret-position="-2086">
+              <caret line="102" column="50" selection-start-line="102" selection-start-column="50" selection-end-line="102" selection-end-column="50" />
               <folding>
-                <marker date="1555970540064" expanded="true" signature="6:80" ph="..." />
+                <marker date="1555970540064" expanded="false" signature="6:80" ph="..." />
                 <marker date="1555970540064" expanded="true" signature="128:10982" ph="{...}" />
                 <marker date="1555970540064" expanded="true" signature="132:177" ph="/// Private variables declaration ... " />
                 <marker date="1555970540064" expanded="true" signature="862:2039" ph="{...}" />
@@ -246,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MessageTrigger.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-43">
+            <state relative-caret-position="15">
               <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding>
                 <marker date="1555882027934" expanded="false" signature="6:100" ph="..." />
@@ -263,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scroll Panels/AdvancedScrollingPanel/Scenes/Scripts/DisplayPanelMessageOnTrigger.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="150">
               <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <marker date="1520716660000" expanded="false" signature="6:78" ph="..." />
@@ -304,7 +127,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
-    <option name="width" value="984" />
+    <option name="width" value="985" />
     <option name="height" value="1095" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -313,15 +136,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -372,12 +195,28 @@
       <workItem from="1554672534489" duration="640000" />
       <workItem from="1555532318065" duration="2739000" />
       <workItem from="1555876798831" duration="5830000" />
-      <workItem from="1555962759675" duration="3469000" />
+      <workItem from="1555962759675" duration="3568000" />
+      <workItem from="1556139536934" duration="312000" />
     </task>
+    <task id="LOCAL-00001" summary="added working UI - scrolling panels with animations">
+      <created>1555972986307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555972986307</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added working UI - scrolling panels with animations">
+      <created>1555973050934</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555973050934</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12678000" />
+    <option name="totallyTimeSpent" value="13089000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,7 +231,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12751678" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12885906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -407,7 +246,7 @@
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Unity" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Unit Tests" order="13" />
@@ -427,6 +266,10 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added working UI - scrolling panels with animations" />
+    <option name="LAST_COMMIT_MESSAGE" value="added working UI - scrolling panels with animations" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -439,43 +282,12 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Plugins/Ink/Example/Scripts/BasicInkExample.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scroll Panels/AdvancedScrollingPanel/Scenes/Scripts/DisplayPanelMessageOnTrigger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <marker date="1520716660000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1520716660000" expanded="true" signature="138:877" ph="{...}" />
-            <marker date="1520716660000" expanded="true" signature="480:875" ph="{...}" />
-            <marker date="1520716660000" expanded="true" signature="516:532" ph="{...}" />
-            <marker date="1520716660000" expanded="true" signature="568:872" ph="{...}" />
-            <marker date="1520716660000" expanded="true" signature="704:868" ph="{...}" />
-            <marker date="1520716660000" expanded="true" signature="751:801" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MessageTrigger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <marker date="1555882027934" expanded="false" signature="6:100" ph="..." />
-            <marker date="1555882027934" expanded="true" signature="145:577" ph="{...}" />
-            <marker date="1555882027934" expanded="true" signature="217:238" ph="{...}" />
-            <marker date="1555882027934" expanded="true" signature="296:407" ph="{...}" />
-            <marker date="1555882027934" expanded="true" signature="352:401" ph="{...}" />
-            <marker date="1555882027934" expanded="true" signature="437:575" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scroll Panels/AdvancedScrollingPanel/Scripts/PanelMessageBox.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="248" column="5" lean-forward="true" selection-start-line="248" selection-start-column="5" selection-end-line="248" selection-end-column="5" />
+        <state relative-caret-position="-2086">
+          <caret line="102" column="50" selection-start-line="102" selection-start-column="50" selection-end-line="102" selection-end-column="50" />
           <folding>
-            <marker date="1555970540064" expanded="true" signature="6:80" ph="..." />
+            <marker date="1555970540064" expanded="false" signature="6:80" ph="..." />
             <marker date="1555970540064" expanded="true" signature="128:10982" ph="{...}" />
             <marker date="1555970540064" expanded="true" signature="132:177" ph="/// Private variables declaration ... " />
             <marker date="1555970540064" expanded="true" signature="862:2039" ph="{...}" />
@@ -518,6 +330,37 @@
             <marker date="1555970540064" expanded="true" signature="10810:10846" ph="{...}" />
             <marker date="1555970540064" expanded="true" signature="10874:10980" ph="{...}" />
             <marker date="1555970540064" expanded="true" signature="10929:10977" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MessageTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <marker date="1555882027934" expanded="false" signature="6:100" ph="..." />
+            <marker date="1555882027934" expanded="true" signature="145:577" ph="{...}" />
+            <marker date="1555882027934" expanded="true" signature="217:238" ph="{...}" />
+            <marker date="1555882027934" expanded="true" signature="296:407" ph="{...}" />
+            <marker date="1555882027934" expanded="true" signature="352:401" ph="{...}" />
+            <marker date="1555882027934" expanded="true" signature="437:575" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scroll Panels/AdvancedScrollingPanel/Scenes/Scripts/DisplayPanelMessageOnTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1520716660000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1520716660000" expanded="true" signature="138:877" ph="{...}" />
+            <marker date="1520716660000" expanded="true" signature="480:875" ph="{...}" />
+            <marker date="1520716660000" expanded="true" signature="516:532" ph="{...}" />
+            <marker date="1520716660000" expanded="true" signature="568:872" ph="{...}" />
+            <marker date="1520716660000" expanded="true" signature="704:868" ph="{...}" />
+            <marker date="1520716660000" expanded="true" signature="751:801" ph="{...}" />
           </folding>
         </state>
       </provider>
